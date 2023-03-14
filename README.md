@@ -1,2 +1,4 @@
-# Flower-Classification-Using-CNN
-This repository contains the implementation of three different neural network models for flower classification. The three models implemented are Convolutional Neural Network (CNN), DenseNet121, and VGG16. The dataset used in this implementation is a flower dataset available on the Kaggle website.
+# Project Name: Image Classification using CNN
+This project aims to build a CNN model from scratch and two transfer learning models, DenseNet121 and VGG16, for image classification tasks. The models will be trained and tested on a dataset of images to predict their respective classes.
+
+Source Dataset : https://www.kaggle.com/datasets/alxmamaev/flowers-recognition
